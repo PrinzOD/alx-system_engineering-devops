@@ -1,2 +1,2 @@
 #!/bin/bash
-evho "hello$USER"
+evho 'hello $USER'
